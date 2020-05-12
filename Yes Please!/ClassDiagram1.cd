@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Yes_Please_.Bill" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAECAAAAAAAACAQAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bill.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.CrystalReport1" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABJAAAQAAAAAAAIAAAAAAAAAAAADAABAAAABAA=</HashCode>
+      <FileName>CrystalReport1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.CachedCrystalReport1" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CrystalReport1.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Yes_Please_.CrystalReport2" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABJAAAQAAAAAAAIAAAAAAAAAAAADAABAAAABAA=</HashCode>
+      <FileName>CrystalReport2.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.CachedCrystalReport2" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CrystalReport2.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Yes_Please_.cust_registration" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECEACAAAAACEABgCAAAAYAAABEAAAAAAAAA=</HashCode>
+      <FileName>Customer Registration.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.Emp_OfTheMonth" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECIAAAAAAACBAACCgAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Emp_OfTheMonth.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.emp_management" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAIEAAEOIAAIBAIAOgQACimFCAoBAIAGgCABAQIiI=</HashCode>
+      <FileName>Employee Management.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.group6DataSet" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiBEAAAACwgAgAJBxAAhQBgAYgwSQTkAhAACAAEJJFA=</HashCode>
+      <FileName>group6DataSet.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.kitchen_display" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAECAAAAAEAACAAAgCAAAIQAAgAAAAAAAAAAA=</HashCode>
+      <FileName>kitchen display.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.login" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEBAECAAAAAEAACAABkCABAAYgQgBAgAAgBACJA=</HashCode>
+      <FileName>Log In.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.Home" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAAgECIgkCMBIYBAACCAAAIDgGBAQAESJkAAggIEQQI=</HashCode>
+      <FileName>Menu.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.messagesDataSet1" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAApABAAAQAAAAAgCQBgAAAAAAAEADBE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.Most_bought_product" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Most_bought_product.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.Products" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAgAAEAEiKIAJBgIAGAAASigEJAIAIYAUEAAAAAJKo=</HashCode>
+      <FileName>Products.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.Reports" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACQAAggEGIgAAAAAUChQBiCgAEAYAASBAAQAAAAAAg=</HashCode>
+      <FileName>Reports.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.reservation_ordered_items" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABEIAgECCAAAAgIEDgADiCgAAQcAABBEARACAgAIA=</HashCode>
+      <FileName>Reseravtion Ordered Items.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.reservation2" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBAAIAIgkCSAAAAACECgEjgCAABwcAAAAEAMRQAAACA=</HashCode>
+      <FileName>Reservation 2.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.Reservation_bill" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAECAAAQAAAACAAAgCAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reservation bill.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.Reservation" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAEAgECIAIBIAAAKCADCCCAAQ8AAYBkIQECAEAAI=</HashCode>
+      <FileName>Reservation.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.reset_password" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECIAAAQABADAATkCAAAAYAAQAEAQAAAAAAA=</HashCode>
+      <FileName>Reset Password.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.Rev_Reports" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIAAQAoECIgABIAAACSACiCgAAQ0AAYAEYQEAAAAAA=</HashCode>
+      <FileName>Rev Reports.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.Reward_Employee" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIEgAEKICAABAAAKBABiCGAAC4BAYAEAAEBAQAAA=</HashCode>
+      <FileName>Reward Employee.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.userF" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECIAAAAAAACAADhCgAAAcAARAEgAAiAAAAA=</HashCode>
+      <FileName>User Registration.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.WaiterF" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MQohIHA4EuMIrAsE2FHg3D8jwXD/+hwBEFADDoglIGg=</HashCode>
+      <FileName>Waiters Interface.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.Waiters_Interface2" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KQ7h4Pi/F+MJ7AoE/lGgzD8PQXD/ch+BEHAAEIgNAGg=</HashCode>
+      <FileName>Waiters Interface2.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.group6DataSetTableAdapters.CUSTOMERTableAdapter" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAaIAGAAEAgQAAeAIAAACACAACEICAEAAAAAAAJABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.group6DataSetTableAdapters.MANAGERTableAdapter" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.group6DataSetTableAdapters.MENU_ITEMTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EISAAGAAFPgTCAcIIAAAABAAACEIGBgAEAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.group6DataSetTableAdapters.ORDERTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASQAGAAEEABCAcAIgAAAAAAACEIiAgAAAAIAAAABBA=</HashCode>
+      <FileName>group6DataSet.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.group6DataSetTableAdapters.ORDER_ITEMTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAMggAAAcAIAAAAAAAACAICAgAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.group6DataSetTableAdapters.RESERVATIONTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEEkACBcAIAAAAAAAECEICAAAAAAAEABABDA=</HashCode>
+      <FileName>group6DataSet.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.group6DataSetTableAdapters.USERTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEGAACAcAIAAAAAAAACAICAgBEAAIAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.group6DataSetTableAdapters.WAITERTableAdapter" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAGCEzCAcAJgSgAAAAACIISAgAEEAABBACBRA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.group6DataSetTableAdapters.MostBoughtItemTableAdapter" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.group6DataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACgECIDABAEhAIAAMAIgCACCgAQAAAZAAAAARAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.messagesDataSet1TableAdapters.MESSAGESTableAdapter" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACAICAgAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.messagesDataSet1TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQAAACAAAABABAEBEAAAMAAgAAACgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.My.MyApplication" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yes_Please_.My.MySettings" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAQAABAAIAAABAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="Yes_Please_.My.MySettingsProperty" Collapsed="true">
+    <Position X="0.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Yes_Please_.My.Resources.Resources" Collapsed="true">
+    <Position X="2.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQIAAAAAAAMIAQAAADgZEAASEQAAAEACgBAAAAAqAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

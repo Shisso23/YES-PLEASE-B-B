@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F28F260D-C076-454C-B6BD-2CEB26F2BE8B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Yes_Please_.Products</StartupObject>
+    <RootNamespace>Yes_Please_</RootNamespace>
+    <AssemblyName>Yes Please!</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Yes Please!.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Yes Please!.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Yes Please!, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <ExecutableExtension>.exe</ExecutableExtension>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Customer Registration.Designer.vb">
+      <DependentUpon>Customer Registration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Customer Registration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee Management.Designer.vb">
+      <DependentUpon>Employee Management.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Employee Management.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="group6DataSet.vb">
+      <DependentUpon>group6DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="kitchen display.Designer.vb">
+      <DependentUpon>kitchen display.vb</DependentUpon>
+    </Compile>
+    <Compile Include="kitchen display.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Waiters Interface.Designer.vb">
+      <DependentUpon>Waiters Interface.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Waiters Interface.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="group6DataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>group6DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Managers interface.Designer.vb">
+      <DependentUpon>Managers interface.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Managers interface.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products.Designer.vb">
+      <DependentUpon>Products.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Products.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reward Employee.Designer.vb">
+      <DependentUpon>Reward Employee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reward Employee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User Registration.Designer.vb">
+      <DependentUpon>User Registration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User Registration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reset Password.Designer.vb">
+      <DependentUpon>Reset Password.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reset Password.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reservation.Designer.vb">
+      <DependentUpon>Reservation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reservation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reservation 2.Designer.vb">
+      <DependentUpon>Reservation 2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reservation 2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Log In.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Log In.Designer.vb">
+      <DependentUpon>Log In.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Waiters Interface2.Designer.vb">
+      <DependentUpon>Waiters Interface2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Waiters Interface2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Customer Registration.resx">
+      <DependentUpon>Customer Registration.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee Management.resx">
+      <DependentUpon>Employee Management.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kitchen display.resx">
+      <DependentUpon>kitchen display.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Waiters Interface.resx">
+      <DependentUpon>Waiters Interface.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Managers interface.resx">
+      <DependentUpon>Managers interface.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products.resx">
+      <DependentUpon>Products.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reward Employee.resx">
+      <DependentUpon>Reward Employee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Registration.resx">
+      <DependentUpon>User Registration.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reset Password.resx">
+      <DependentUpon>Reset Password.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reservation.resx">
+      <DependentUpon>Reservation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reservation 2.resx">
+      <DependentUpon>Reservation 2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Log In.resx">
+      <DependentUpon>Log In.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Waiters Interface2.resx">
+      <DependentUpon>Waiters Interface2.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="group6DataSet.xsc">
+      <DependentUpon>group6DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="group6DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>group6DataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="group6DataSet.xss">
+      <DependentUpon>group6DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background image.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

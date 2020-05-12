@@ -1,0 +1,177 @@
+H:\Yes Please!\Yes Please!\bin\Debug\Database1.sdf
+H:\Yes Please!\Yes Please!\bin\Debug\Yes Please!.exe.config
+H:\Yes Please!\Yes Please!\bin\Debug\Yes Please!.pdb
+H:\Yes Please!\Yes Please!\bin\Debug\Yes Please!.xml
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes Please!.vbprojResolveAssemblyReference.cache
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Allocation.resources
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Bill.resources
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.cust_registration.resources
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.emp_management.resources
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Emp_OfTheMonth.resources
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Help.resources
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Most_bought_product.resources
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Regular_Customers.resources
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Report_Drop.resources
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.reservation_ordered_items.resources
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.kitchen_display.resources
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Home.resources
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Reports.resources
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Reservation_bill.resources
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Reservation_Report.resources
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Rev_Reports.resources
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Staff_Allocation.resources
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.WaiterF.resources
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Products.resources
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Reward_Employee.resources
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.userF.resources
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.reset_password.resources
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Reservation.resources
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.reservation2.resources
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.login.resources
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Resources.resources
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Waiters_Interface2.resources
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes Please!.vbproj.GenerateResource.Cache
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes Please!.exe
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes Please!.xml
+H:\Yes Please!\Yes Please!\obj\x86\Debug\Yes Please!.pdb
+Z:\Yes Please!\Yes Please!\bin\Debug\Yes Please!.exe.config
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes Please!.exe
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes Please!.xml
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes Please!.pdb
+Z:\Yes Please!\Yes Please!\bin\Debug\Database1.sdf
+Z:\Yes Please!\Yes Please!\bin\Debug\Yes Please!.pdb
+Z:\Yes Please!\Yes Please!\bin\Debug\Yes Please!.xml
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes Please!.vbprojResolveAssemblyReference.cache
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Allocation.resources
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Bill.resources
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.cust_registration.resources
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.emp_management.resources
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Emp_OfTheMonth.resources
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Help.resources
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Most_bought_product.resources
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Regular_Customers.resources
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Report_Drop.resources
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.reservation_ordered_items.resources
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.kitchen_display.resources
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Home.resources
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Reports.resources
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Reservation_bill.resources
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Reservation_Report.resources
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Rev_Reports.resources
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Staff_Allocation.resources
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.WaiterF.resources
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Products.resources
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Reward_Employee.resources
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.userF.resources
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.reset_password.resources
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Reservation.resources
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.reservation2.resources
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.login.resources
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Resources.resources
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Waiters_Interface2.resources
+Z:\Yes Please!\Yes Please!\obj\x86\Debug\Yes Please!.vbproj.GenerateResource.Cache
+X:\Yes Please!\Yes Please!\bin\Debug\Yes Please!.exe.config
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes Please!.exe
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes Please!.xml
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes Please!.pdb
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes Please!.vbprojResolveAssemblyReference.cache
+X:\Yes Please!\Yes Please!\bin\Debug\Database1.sdf
+X:\Yes Please!\Yes Please!\bin\Debug\Yes Please!.pdb
+X:\Yes Please!\Yes Please!\bin\Debug\Yes Please!.xml
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Allocation.resources
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Bill.resources
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.cust_registration.resources
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.emp_management.resources
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Emp_OfTheMonth.resources
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Help.resources
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Most_bought_product.resources
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Regular_Customers.resources
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Report_Drop.resources
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.reservation_ordered_items.resources
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.kitchen_display.resources
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Home.resources
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Reports.resources
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Reservation_bill.resources
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Reservation_Report.resources
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Rev_Reports.resources
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Staff_Allocation.resources
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.WaiterF.resources
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Products.resources
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Reward_Employee.resources
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.userF.resources
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.reset_password.resources
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Reservation.resources
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.reservation2.resources
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.login.resources
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Resources.resources
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Waiters_Interface2.resources
+X:\Yes Please!\Yes Please!\obj\x86\Debug\Yes Please!.vbproj.GenerateResource.Cache
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\bin\Debug\Yes Please!.exe.config
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes Please!.exe
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes Please!.xml
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes Please!.pdb
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\bin\Debug\Database1.sdf
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\bin\Debug\Yes Please!.pdb
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\bin\Debug\Yes Please!.xml
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes Please!.vbprojResolveAssemblyReference.cache
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Allocation.resources
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Bill.resources
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.cust_registration.resources
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.emp_management.resources
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Emp_OfTheMonth.resources
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Help.resources
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Most_bought_product.resources
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Regular_Customers.resources
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Report_Drop.resources
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.reservation_ordered_items.resources
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.kitchen_display.resources
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Home.resources
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Reports.resources
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Reservation_bill.resources
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Reservation_Report.resources
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Rev_Reports.resources
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Staff_Allocation.resources
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.WaiterF.resources
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Products.resources
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Reward_Employee.resources
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.userF.resources
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.reset_password.resources
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Reservation.resources
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.reservation2.resources
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.login.resources
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Resources.resources
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Waiters_Interface2.resources
+C:\Users\214508246\Desktop\Yes Please!\Yes Please!\obj\x86\Debug\Yes Please!.vbproj.GenerateResource.Cache
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\bin\Debug\Yes Please!.exe.config
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes Please!.exe
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes Please!.xml
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes Please!.pdb
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes Please!.vbprojResolveAssemblyReference.cache
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Allocation.resources
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Bill.resources
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.cust_registration.resources
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.emp_management.resources
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Emp_OfTheMonth.resources
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Help.resources
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Most_bought_product.resources
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Regular_Customers.resources
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Report_Drop.resources
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.reservation_ordered_items.resources
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.kitchen_display.resources
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Home.resources
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Reports.resources
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Reservation_bill.resources
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Reservation_Report.resources
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Rev_Reports.resources
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Staff_Allocation.resources
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.WaiterF.resources
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Products.resources
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Reward_Employee.resources
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.userF.resources
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.reset_password.resources
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Reservation.resources
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.reservation2.resources
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.login.resources
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Resources.resources
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes_Please_.Waiters_Interface2.resources
+C:\Users\masuk\Documents\Projects-System-Development\Yes Please!\Yes Please!\obj\x86\Debug\Yes Please!.vbproj.GenerateResource.Cache

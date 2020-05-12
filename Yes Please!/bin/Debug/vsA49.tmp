@@ -1,0 +1,360 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+YesPlease!
+</name>
+</assembly>
+<members>
+<member name="T:Yes_Please_.messagesDataSet1.MESSAGESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Yes_Please_.messagesDataSet1.MESSAGESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Yes_Please_.messagesDataSet1.MESSAGESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Yes_Please_.messagesDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Yes_Please_.messagesDataSet1TableAdapters.MESSAGESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Yes_Please_.messagesDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Yes_Please_.messagesDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Yes_Please_.messagesDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Yes_Please_.messagesDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Yes_Please_.messagesDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Yes_Please_.messagesDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Yes_Please_.messagesDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Yes_Please_.messagesDataSet1TableAdapters.TableAdapterManager.UpdateAll(Yes_Please_.messagesDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Yes_Please_.messagesDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Yes_Please_.messagesDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Yes_Please_.messagesDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Yes_Please_.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Yes_Please_.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Yes_Please_.My.Resources.Resources._12187_2_jpg_1366x768_q85_crop_upscale">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yes_Please_.My.Resources.Resources._12187_7_jpg_1366x768_q85_crop_upscale">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yes_Please_.My.Resources.Resources._18357347">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yes_Please_.My.Resources.Resources._183573471">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yes_Please_.My.Resources.Resources._2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yes_Please_.My.Resources.Resources._2061d71e_b">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yes_Please_.My.Resources.Resources._2061d71e_b1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yes_Please_.My.Resources.Resources._21">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yes_Please_.My.Resources.Resources._22">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yes_Please_.My.Resources.Resources._488023_130710165633446">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yes_Please_.My.Resources.Resources._488023_130710165634774">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yes_Please_.My.Resources.Resources.Background_image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yes_Please_.My.Resources.Resources.Background_image1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yes_Please_.My.Resources.Resources.Capture">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yes_Please_.My.Resources.Resources.CghzgVVQ_4aARFF7AAAv5o7Ju88606_R_550_412">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yes_Please_.My.Resources.Resources.g276882_jpg_1366x768_q85_crop_upscale">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yes_Please_.My.Resources.Resources.g277130_jpg_1366x768_q85_crop_upscale">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yes_Please_.My.Resources.Resources.HI294282663">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yes_Please_.My.Resources.Resources.images">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yes_Please_.My.Resources.Resources.images1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yes_Please_.My.Resources.Resources.print_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yes_Please_.My.Resources.Resources.Search">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yes_Please_.My.Resources.Resources.Yes_Please_LOGO">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yes_Please_.My.Resources.Resources.yesplease_bed__breakfast_gallery_130223_20160229144930">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yes_Please_.My.Resources.Resources.yespleasetravelandtours_16_x_large">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Yes_Please_.My.Resources.Resources.yespleasetravelandtours_19_x_large">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Yes_Please_.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Yes_Please_.group6DataSet.CUSTOMERDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Yes_Please_.group6DataSet.MANAGERDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Yes_Please_.group6DataSet.MENU_ITEMDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Yes_Please_.group6DataSet.ORDERDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Yes_Please_.group6DataSet.ORDER_ITEMDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Yes_Please_.group6DataSet.RESERVATIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Yes_Please_.group6DataSet.USERDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Yes_Please_.group6DataSet.WAITERDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Yes_Please_.group6DataSet.MostBoughtItemDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Yes_Please_.group6DataSet.CUSTOMERRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Yes_Please_.group6DataSet.MANAGERRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Yes_Please_.group6DataSet.MENU_ITEMRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Yes_Please_.group6DataSet.ORDERRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Yes_Please_.group6DataSet.ORDER_ITEMRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Yes_Please_.group6DataSet.RESERVATIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Yes_Please_.group6DataSet.USERRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Yes_Please_.group6DataSet.WAITERRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Yes_Please_.group6DataSet.MostBoughtItemRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Yes_Please_.group6DataSet.CUSTOMERRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Yes_Please_.group6DataSet.MANAGERRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Yes_Please_.group6DataSet.MENU_ITEMRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Yes_Please_.group6DataSet.ORDERRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Yes_Please_.group6DataSet.ORDER_ITEMRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Yes_Please_.group6DataSet.RESERVATIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Yes_Please_.group6DataSet.USERRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Yes_Please_.group6DataSet.WAITERRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Yes_Please_.group6DataSet.MostBoughtItemRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Yes_Please_.group6DataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Yes_Please_.group6DataSetTableAdapters.CUSTOMERTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Yes_Please_.group6DataSetTableAdapters.MANAGERTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Yes_Please_.group6DataSetTableAdapters.MENU_ITEMTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Yes_Please_.group6DataSetTableAdapters.ORDERTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Yes_Please_.group6DataSetTableAdapters.ORDER_ITEMTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Yes_Please_.group6DataSetTableAdapters.RESERVATIONTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Yes_Please_.group6DataSetTableAdapters.USERTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Yes_Please_.group6DataSetTableAdapters.WAITERTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Yes_Please_.group6DataSetTableAdapters.MostBoughtItemTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Yes_Please_.group6DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Yes_Please_.group6DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Yes_Please_.group6DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Yes_Please_.group6DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Yes_Please_.group6DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Yes_Please_.group6DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Yes_Please_.group6DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Yes_Please_.group6DataSetTableAdapters.TableAdapterManager.UpdateAll(Yes_Please_.group6DataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Yes_Please_.group6DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Yes_Please_.group6DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Yes_Please_.group6DataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
