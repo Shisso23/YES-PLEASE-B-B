@@ -1,6 +1,7 @@
 # YES-PLEASE-B-B
 A restaurant and reservation system for YES-PLEASE! B&B
-User registration interface
+
+
 ![User registration interface](https://github.com/Shisso23/YES-PLEASE-B-B/blob/master/images/user%20registration.png)
 
 Reset password interface
